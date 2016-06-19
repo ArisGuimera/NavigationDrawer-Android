@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+    <string name="usuario">NavigationDrawer</string>
+    <string name="seccion_1">Título</string>
+    <string name="otras_opciones">Settings</string>
+    <string name="opcion_1">SubTítulo</string>
+    <string name="fragment">Fragmento</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

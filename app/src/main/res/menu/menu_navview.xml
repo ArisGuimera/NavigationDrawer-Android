@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/ic_menu"
+            android:title="Titulación"/>
+        <item
+            android:id="@+id/menu_seccion_2"
+            android:icon="@drawable/ic_menu"
+            android:title="Experiencia"/>
+        <item
+            android:id="@+id/menu_seccion_3"
+            android:icon="@drawable/ic_menu"
+            android:title="Conocimientos"/>
+    </group>
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="Más información">
+        <menu>
+            <item
+                android:id="@+id/menu_opcion_1"
+                android:icon="@drawable/ic_menu"
+                android:title="Linkedin"/>
+            <item
+                android:id="@+id/menu_opcion_2"
+                android:icon="@drawable/ic_menu"
+                android:title="GitHub"/>
+            <item
+                android:id="@+id/menu_opcion_3"
+                android:icon="@drawable/ic_menu"
+                android:title="Web"/>
+        </menu>
+    </item>
+</menu>
